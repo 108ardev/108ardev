@@ -1,4 +1,4 @@
-```markdown
+markdown
 <div align="center">
 
 # Hi, I'm Andrey Romanov 👋
@@ -107,4 +107,3 @@ Java Backend Engineer with over 4 years of commercial experience building backen
 
 - Email: [ravdev108@gmail.com](mailto:ravdev108@gmail.com)
 - GitHub: [github.com/108ardev](https://github.com/108ardev)
-```
