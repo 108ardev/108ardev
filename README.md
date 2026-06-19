@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Andrey Romanov 👋
+# Hi, I'm Andrey 👋
 
 ### Java Backend Engineer
 
