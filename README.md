@@ -28,6 +28,7 @@ I stay involved after deployment. For event-driven workflows, I use a transactio
 
 ### DevOps & observability
 
+- **Infrastructure as code & configuration management** · Terraform, Ansible
 - **Containers & orchestration** · Docker, Docker Compose, Kubernetes, OpenShift
 - **CI/CD** · GitHub Actions, GitLab CI, Jenkins, Argo CD
 - **Metrics, logs & tracing** · Prometheus, Grafana, Loki, Tempo, Graylog
